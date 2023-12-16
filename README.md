@@ -26,3 +26,5 @@ Instrucciones de preparación de entorno
 ###### Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 ![.](https://github.com/AdalGuadarrama/Practica-ESP32-con-DHT11/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20y%208%20p%C3%A1ginas%20m%C3%A1s%20-%20Perfil%201_%20Microsoft%E2%80%8B%20Edge%2016_12_2023%2009_08_29%20a.%20m..png)
+###### Creditos 
+Guadarrama Lome Adalberto
