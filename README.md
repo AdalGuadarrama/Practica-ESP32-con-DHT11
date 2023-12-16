@@ -14,5 +14,5 @@ Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
 
 Instrucciones de preparación de entorno
 1. Abrir la terminal de programación y colocar la siguente programación:
-
+![.](https://github.com/AdalGuadarrama/Practica-ESP32-con-DHT11/blob/main/captura%201.png)
   
